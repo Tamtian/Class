@@ -1,2 +1,2 @@
 # Curriculum
-This repository contains just my homework of my class.
+This repository contains just my homework of my courses.
